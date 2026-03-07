@@ -11,4 +11,7 @@ class AppTest {
         App classUnderTest = new App();
         assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
     }
+    @Test void onePlusOneisTwo(){
+        assertEquals(2,1+1);
+    }
 }
