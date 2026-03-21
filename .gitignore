@@ -6,3 +6,9 @@ build
 
 # Ignore Kotlin plugin data
 .kotlin
+
+# Ignore local SQLite data files
+data/
+*.db
+*.db-shm
+*.db-wal

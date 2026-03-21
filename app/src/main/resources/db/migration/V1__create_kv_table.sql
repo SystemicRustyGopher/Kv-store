@@ -1,0 +1,10 @@
+-- TODO(your-name): Define initial schema for kv_store.
+-- Suggested subsections:
+-- 1) table creation
+-- 2) indexes
+-- 3) optional constraints
+--
+-- Example goals:
+-- - key is unique / primary key
+-- - value is required
+-- - updated_at tracks write time
